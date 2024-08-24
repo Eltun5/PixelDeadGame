@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PixelDead.iml" filepath="$PROJECT_DIR$/PixelDead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Res/Res.iml" filepath="$PROJECT_DIR$/Res/Res.iml" />
+    </modules>
+  </component>
+</project>

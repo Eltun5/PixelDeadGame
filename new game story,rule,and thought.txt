@@ -1,0 +1,14 @@
+game name
+oyunda 1 ana karakter var.
+o elinde silah ile sabit formada gozleyir.
+silah cesidliliyi (tufengler, pistollar, qilinclar, bombalar).  
+karakter ferqliliyi ve her carakter ucun ferqli ozellikler.
+sag sol yuxari be asgidan dusmenler gelir.
+dusmenlerde can ve suret cesidliliyi var.
+background black.
+level uzre oyundur her levelin 3 novu var easy normal hard var. 
+easy mod 2 deq. normal mod 5 deq. hard mod 10 deq.
+eastereggler olacaq. 
+gizli kodlar olacaq.
+oyunda karakterin 3 cani var. her dusmen karaktere toxundugu anda yox olur ve 1 can aparir.
+ekran 504x504
